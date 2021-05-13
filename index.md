@@ -12,3 +12,5 @@ Buchspazierer. Trägt abends Bücher zu Kunden, die nicht selbst ins Geschäft g
 
 Carl Kollhoff sagt:
 > Jedes gute Buch ist über wirklich Menschen
+
+<img src=https://www.piper.de/uploads/_processed_/a/0/csm_produkt-10005695_8fa3131475.jpg/>
