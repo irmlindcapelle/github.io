@@ -9,3 +9,6 @@ Buchspazierer. Trägt abends Bücher zu Kunden, die nicht selbst ins Geschäft g
 * trinkt Silvaner
 * ist immer grün gekleidet
 * trägt immer einen Hut
+
+Carl Kollhoff sagt:
+> Jedes gute Buch ist über wirklich Menschen
